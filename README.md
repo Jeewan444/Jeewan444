@@ -1,6 +1,6 @@
 ![logo](https://github.com/Jeewan444/Jeewan444/blob/main/Copy%20of%20Black%20%26%20Blue%20Creative%20Game%20Streammer%20Twitch%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Jeewan Kumar Thakur</h1>
-<h3 align="center">	I am a A dedicated B.Tech student in Cloud Technology and Information Security with experience in web development, database management, and network support & Experience includes customer support, digital marketing, and tutoring.
+<h3 align="center">	I am a A dedicated B.Tech student in Cloud Technology and Information Security with experience in cloud technology, web development, database management, network support & Experience includes customer support, digital marketing, and tutoring.
 </h3>
 
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
